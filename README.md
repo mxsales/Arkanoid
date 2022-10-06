@@ -6,7 +6,7 @@
 O clássico game dos anos 80 e um dos Arcades de mais renome em seu tempo, Arkanoid foi originalmente desenvolvido pela Taito em 1986 para consoles. Este projeto tem como objetivo trazer o jogo para uma versão mobile utilizando Flutter.
 
 ### Requisitos:
-Smartphone com sistema Android 6.0 ou superior.
+Smartphone com sistema Android.
 
 ### Desenvolvedor:
 Marcelo Sales
